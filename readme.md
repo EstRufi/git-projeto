@@ -16,8 +16,8 @@
 `git config --global user.email "estelarb2311@gmail.com"`
 `git config --global user.name "EstRufi"`
 #### Fazendo Push no Repositório Remoto
-`git push -u origem main`
+`git push -u origem (o certo é origin) main`
   #### Adicionando todos os arquivos do repositório local
   `git add .`
   #### Fazendo Push de todos os arquivos
-  `git push origem main`
+  `git push origem (o certo é origin) main`
